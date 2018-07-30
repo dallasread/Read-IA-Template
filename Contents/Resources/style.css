@@ -8,11 +8,12 @@ html, body {
   font-family: Palatino, Times, Serif;
   line-height: 1.4;
   color: #111;
+  background: #fff;
 }
 
 @media (max-width: 640px) {
   html, body {
-    font-size: 14px;
+    font-size: 17px;
   }
 }
 
@@ -33,7 +34,6 @@ p,
 ul,
 ol {
   margin-bottom: 20px;
-  text-align: justify;
 }
 
 ul {
@@ -80,7 +80,7 @@ h2 {
 
 h3 {
   font-size: 140%;
-  color: blue;
+  color: #bbb;
   padding-top: 20px;
 }
 
@@ -91,7 +91,7 @@ h4 {
 
 h5 {
   font-size: 110%;
-  color: #555;
+  color: #bbb;
   font-style: oblique;
   font-family: Palatino, Times, Serif;
   font-weight: normal;
