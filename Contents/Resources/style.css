@@ -115,6 +115,12 @@ code {
   font-family: Monaco, Courier New, Mono;
 }
 
+blockquote {
+  border-left: 5px solid #eee;
+  margin-left: 20px;
+  opacity: 0.8;
+}
+
 .TOC, pre {
   background: #fafafa;
   border: 1px solid #eee;
