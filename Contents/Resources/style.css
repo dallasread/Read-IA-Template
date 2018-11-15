@@ -117,7 +117,7 @@ code {
 
 blockquote {
   border-left: 5px solid #eee;
-  margin-left: 20px;
+  padding-left: 20px;
   opacity: 0.8;
 }
 
